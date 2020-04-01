@@ -1,0 +1,1 @@
+This repository is going to contain all the code for the challenges on JSHero
