@@ -1,0 +1,1 @@
+const echo = input => input;
